@@ -12,6 +12,9 @@ public class TestDemo {
 		System.out.println("Testing ");
 	}
 	
+	public void Test1(){
+		System.out.println("Testing ");
+	}
 
 	public static void main(String[] args) {
 		
@@ -19,6 +22,7 @@ public class TestDemo {
 		
 		demo.Demo();
 		demo.Test();
+		demo.Test1();
 		
 	}
 
