@@ -22,7 +22,7 @@ public class TestDemo {
 		
 		demo.Demo();
 		demo.Test();
-		demo.Test1();
+	
 		
 	}
 
