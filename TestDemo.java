@@ -18,7 +18,6 @@ public class TestDemo {
 		TestDemo demo = new TestDemo();
 		
 		demo.Demo();
-		
 		demo.Test();
 		
 	}
